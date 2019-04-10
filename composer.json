@@ -2,7 +2,7 @@
   "name": "nickaguilarh/holo-constraints",
   "description": "A package that allow entities to have constraints on app level.",
   "type": "library",
-  "license": "GNU GPLv3",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Nick Aguilar H",

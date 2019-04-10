@@ -4,7 +4,6 @@
 namespace HoloConstraints\Models;
 
 
-use Holo\Constraints\ConstraintsContract;
 use HoloConstraints\Exceptions\ConstraintNotFulfilledException;
 
 trait ConstraintsAbstract
